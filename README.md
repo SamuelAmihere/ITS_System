@@ -40,7 +40,3 @@ The system focuses on a metropolitan area with a population of approximately 1 m
 - Maintainability: The system should be designed with modularity and extensibility in mind, allowing for easy maintenance and future enhancements.
 - Usability: Develop a user-friendly interface with intuitive visualizations.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-
